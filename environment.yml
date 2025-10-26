@@ -1,0 +1,16 @@
+name: Predicting-Airplane-Delays-using-ML-pipeline
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - pip
+  - pip:
+      - notebook

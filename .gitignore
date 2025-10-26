@@ -1,0 +1,15 @@
+data/
+datasets/
+.raw/
+*.csv
+*.parquet
+*.xlsx
+*.zip
+*.gz
+*.pdf
+-p
+
+#From Notebooks
+.ipynb_checkpoints/
+outputs/
+reports/figures/
