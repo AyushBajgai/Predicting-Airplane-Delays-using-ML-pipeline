@@ -8,6 +8,7 @@ datasets/
 *.gz
 *.pdf
 -p
+*.twb
 
 #From Notebooks
 .ipynb_checkpoints/
